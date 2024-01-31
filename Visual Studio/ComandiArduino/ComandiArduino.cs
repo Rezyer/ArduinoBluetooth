@@ -12,21 +12,21 @@ namespace ComandiArduino
 {
     public partial class ComandiArduino : Form
     {
-        Boolean radioOpenClose = true;
+        Boolean radioOpenClose = true;  // Variabile booleana che indica lo stato dei radio buttons
         public ComandiArduino()
         {
             InitializeComponent();
         }
 
-        private void cmdMagazzino_Click(object sender, EventArgs e)
+        private void cmdMagazzino_Click(object sender, EventArgs e) // Pulsante Magazzino
         {
-            serialPort.Open();
-            serialPort.Write("M");
-            serialPort.Write(Environment.NewLine);
-            serialPort.Close();
+            serialPort.Open();                      // Apertura porta seriale
+            serialPort.Write("M");                  // Trasmissione carattere
+            serialPort.Write(Environment.NewLine);  // Trasmissione fine riga
+            serialPort.Close();                     // Chiusura porta seriale
         }
 
-        private void cmdPiazzale_Click(object sender, EventArgs e)
+        private void cmdPiazzale_Click(object sender, EventArgs e)  // Pulsante Piazzale
         {
             serialPort.Open();
             serialPort.Write("P");
@@ -34,7 +34,7 @@ namespace ComandiArduino
             serialPort.Close();
         }
 
-        private void cmdGarage_Click(object sender, EventArgs e)
+        private void cmdGarage_Click(object sender, EventArgs e)    // Pulsante Garage
         {
             serialPort.Open();
             serialPort.Write("G");
@@ -42,22 +42,22 @@ namespace ComandiArduino
             serialPort.Close();
         }
 
-        private void cmdSbarra_Click(object sender, EventArgs e)
+        private void cmdSbarra_Click(object sender, EventArgs e)    // Pulsante Sbarra
         {
             serialPort.Open();
             serialPort.Write("H");
             serialPort.Write(Environment.NewLine);
             serialPort.Close();
 
-            if (radioOpenClose == true)
+            if (radioOpenClose == true)             // Controllo stato radio buttons (se la sbarra è chiusa)
             {
-                radioOpen.Checked = true;
-                radioOpenClose = false;
+                radioOpen.Checked = true;           // Marcatura radio button "Alzata"
+                radioOpenClose = false;             // Stato radio buttons: Sbarra aperta
             }
-            else
+            else                                    // Controllo stato radio buttons (se la sbarra è aperta)
             {
-                radioClose.Checked = true;
-                radioOpenClose = true;
+                radioClose.Checked = true;          // Marcatura radio button "Abbassata"
+                radioOpenClose = true;              // Stato radio buttons: Sbarra chiusa
             }
         }
     }

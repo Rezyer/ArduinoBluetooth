@@ -12,9 +12,9 @@ C:\Users\4ndre\OneDrive\Desktop\Visual Studio\ComandiArduino\bin\Debug\AppBella.
 C:\Users\4ndre\OneDrive\Desktop\Visual Studio\ComandiArduino\bin\Debug\AppBella.exe
 C:\Users\4ndre\OneDrive\Desktop\Visual Studio\ComandiArduino\bin\Debug\AppBella.pdb
 C:\Users\4ndre\OneDrive\Desktop\Visual Studio\ComandiArduino\obj\Debug\ComandiArduino.csproj.AssemblyReference.cache
-C:\Users\4ndre\OneDrive\Desktop\Visual Studio\ComandiArduino\obj\Debug\AppBella.ComandiArduino.resources
 C:\Users\4ndre\OneDrive\Desktop\Visual Studio\ComandiArduino\obj\Debug\AppBella.Properties.Resources.resources
 C:\Users\4ndre\OneDrive\Desktop\Visual Studio\ComandiArduino\obj\Debug\ComandiArduino.csproj.GenerateResource.cache
 C:\Users\4ndre\OneDrive\Desktop\Visual Studio\ComandiArduino\obj\Debug\ComandiArduino.csproj.CoreCompileInputs.cache
 C:\Users\4ndre\OneDrive\Desktop\Visual Studio\ComandiArduino\obj\Debug\AppBella.exe
 C:\Users\4ndre\OneDrive\Desktop\Visual Studio\ComandiArduino\obj\Debug\AppBella.pdb
+C:\Users\4ndre\OneDrive\Desktop\Visual Studio\ComandiArduino\obj\Debug\ComandiArduino.ComandiArduino.resources
