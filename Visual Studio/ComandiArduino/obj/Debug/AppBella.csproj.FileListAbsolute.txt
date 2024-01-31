@@ -1,0 +1,20 @@
+C:\Users\mauceri.andre\source\repos\AppBella\AppBella\bin\Debug\AppBella.exe.config
+C:\Users\mauceri.andre\source\repos\AppBella\AppBella\bin\Debug\AppBella.exe
+C:\Users\mauceri.andre\source\repos\AppBella\AppBella\bin\Debug\AppBella.pdb
+C:\Users\mauceri.andre\source\repos\AppBella\AppBella\obj\Debug\AppBella.csproj.AssemblyReference.cache
+C:\Users\mauceri.andre\source\repos\AppBella\AppBella\obj\Debug\AppBella.Form1.resources
+C:\Users\mauceri.andre\source\repos\AppBella\AppBella\obj\Debug\AppBella.Properties.Resources.resources
+C:\Users\mauceri.andre\source\repos\AppBella\AppBella\obj\Debug\AppBella.csproj.GenerateResource.cache
+C:\Users\mauceri.andre\source\repos\AppBella\AppBella\obj\Debug\AppBella.csproj.CoreCompileInputs.cache
+C:\Users\mauceri.andre\source\repos\AppBella\AppBella\obj\Debug\AppBella.exe
+C:\Users\mauceri.andre\source\repos\AppBella\AppBella\obj\Debug\AppBella.pdb
+C:\Users\4ndre\OneDrive\Desktop\Visual Studio\AppBella\bin\Debug\AppBella.exe.config
+C:\Users\4ndre\OneDrive\Desktop\Visual Studio\AppBella\bin\Debug\AppBella.exe
+C:\Users\4ndre\OneDrive\Desktop\Visual Studio\AppBella\bin\Debug\AppBella.pdb
+C:\Users\4ndre\OneDrive\Desktop\Visual Studio\AppBella\obj\Debug\AppBella.csproj.AssemblyReference.cache
+C:\Users\4ndre\OneDrive\Desktop\Visual Studio\AppBella\obj\Debug\AppBella.Form1.resources
+C:\Users\4ndre\OneDrive\Desktop\Visual Studio\AppBella\obj\Debug\AppBella.Properties.Resources.resources
+C:\Users\4ndre\OneDrive\Desktop\Visual Studio\AppBella\obj\Debug\AppBella.csproj.GenerateResource.cache
+C:\Users\4ndre\OneDrive\Desktop\Visual Studio\AppBella\obj\Debug\AppBella.csproj.CoreCompileInputs.cache
+C:\Users\4ndre\OneDrive\Desktop\Visual Studio\AppBella\obj\Debug\AppBella.exe
+C:\Users\4ndre\OneDrive\Desktop\Visual Studio\AppBella\obj\Debug\AppBella.pdb
